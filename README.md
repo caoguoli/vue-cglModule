@@ -30,21 +30,30 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 > 加减按钮 cglcounter
 
+<hr/>
 
 > 圆盘滑动条 cglDiscslider
 
 `注：用 canvas 实现，注意点：因为画布大小缩放导致的闪跳、实现的精确度问题`
 
+<hr/>
+
 > 圆圈内部小 div 手指移动组件 CglCirchildSlide
 
 `注：如何实现 多个小div 的来回滑动`
 
+<hr/>
+
 > Y 轴滑动条组件 cglYslider
+
+<hr/>
 
 > 滑动删除组件 cglMovedel
 
+<hr/>
+
 > Echart 圆形表盘组件 cglEchartCirmove
+
 `注：用 echart、vue-echart 插件实现。  注意点：滑动功能如何实现`
  
-
-
+<hr/>
